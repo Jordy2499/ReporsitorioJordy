@@ -1,8 +1,5 @@
 package polimorfismo;
 
-import mundo.Vehiculo;
-import mundo.VehiculoDeportivo;
-import mundo.VehiculoFurgoneta;
 
 public class PrincipalVehiculos {
 	public static void main(String[] args) {

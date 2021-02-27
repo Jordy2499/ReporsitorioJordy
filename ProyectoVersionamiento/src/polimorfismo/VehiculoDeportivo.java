@@ -1,6 +1,8 @@
 package polimorfismo;
 
-public class VehiculoDeportivo {
+
+
+public class VehiculoDeportivo extends Vehiculo {
 	private int cilindrada;
 
 	public VehiculoDeportivo(int cilindrada, String matricula, String marca, String modelo) {
